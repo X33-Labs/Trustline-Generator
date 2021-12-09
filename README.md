@@ -1,6 +1,6 @@
 # Trustline Generator
 
-X33 Labs has create an easy test script to generate a number of wallets and trustlines on testnet for projects to test the X33 Airdrop Tool.
+X33 Labs has created an easy test script to generate a number of wallets and trustlines on testnet for projects to test the X33 Airdrop Tool.
 
 To Run Script:
 
