@@ -188,7 +188,7 @@ async function main() {
 
     }
 
-    console.lot("Successful Script Completion. Total Wallets Created: " + totalWalletsCreated)
+    console.log("Successful Script Completion. Total Wallets Created: " + totalWalletsCreated)
 
     client.disconnect()
 } // End of main()
